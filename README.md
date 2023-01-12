@@ -17,7 +17,7 @@ Make sure to have @Dysphie 's map translator installed.
 Copy The translation files from translated to the sourcemod/translations/_maps.
 
 
-### [OPTIONAL for nerds] About the py script:
+### [OPTIONAL] About the py script:
 A python cli script that will automatically translate translation files you feed it, based on language codes. 
 Uses MyMemory to dump translations with unknown accuracy. :trollface: 
 
