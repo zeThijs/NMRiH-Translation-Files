@@ -19,7 +19,7 @@ Copy The translation files from translated to the sourcemod/translations/_maps.
 
 ### autotranslate.py info:
 A python cli script that will automatically translate translation files you feed it, based on language codes. 
-Uses MyMemory to dump translations with unknown accuracy') 
+Uses MyMemory to dump translations with unknown accuracy. :trollface: 
 You can use it to add your map's translations
 
 
