@@ -2,7 +2,8 @@
 **Translation files for use with sm-map-translator.**
 https://github.com/dysphie/sm-map-translator
 
-**This is a dump of translations, automagically retrieved using MyMemory API. Some translations may be a bit inaccurate. Took a while to make, with over a million characters translated.**
+**This is a dump of translations, automagically retrieved using MyMemory API. Some translations may be a bit inaccurate.**
+Took a while to make, with over a million characters translated
 Please feel free to leave improvements, additions with a pull request or message.
 I'm curious how accurate the translations are in general, leave a message ! ( I don't speak most of the translated languages )
 
