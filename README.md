@@ -27,7 +27,7 @@ Use it to add your map's translations
 **Script Usage:**
 
 - Open a command line interface (cmd.exe, terminal, etc)
-- Execute python autotranslate.py -f <map_translation_file> OR -p <directory to translate>
+- Execute python autotranslate.py -f <map_translation_file> OR -p <directory>
 - [optional parameter] -mail <yourmail>
 
 A map translation file can be acquired using sm-map-translator (https://github.com/dysphie/sm-map-translator#usage)
